@@ -8,4 +8,5 @@ public function tampil()
 {
     return $this->view('v_Tampil');
 }
+
 }
