@@ -4,9 +4,9 @@ class Home extends CI_Controller {
 {
     echo 'Belajar WEB FRAMEWORK';
 }
-public function tampil()
+public function mahasiswa()
 {
-    return $this->view('v_Tampil');
+    return $this->view('v_mahasiswa');
 }
 
 }
